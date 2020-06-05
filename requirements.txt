@@ -1,7 +1,7 @@
 appdirs==1.4.3
 codecov==2.0.9
 coverage==4.3.4
-Django==1.8
+Django==1.11.29
 django-extensions==1.7.8
 django-nose==1.4.4
 packaging==16.8
